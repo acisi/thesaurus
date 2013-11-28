@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="sqlite_zentus-1385364956791--622259168" provider="generic" driver="sqlite_zentus" name="SQLite - text_data.sqlite" create-date="1385364956791" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="/home/chernousov/workspace/text_data.sqlite" url="jdbc:sqlite:/home/chernousov/workspace/text_data.sqlite" user="" type="dev"/>
+	</data-source>
+</data-sources>

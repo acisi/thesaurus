@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drivers>
+	<provider id="nosql.cassandra"/>
+	<provider id="db2"/>
+	<provider id="mysql"/>
+	<provider id="oracle"/>
+	<provider id="generic">
+		<driver id="sqlite_ch_werner" category="SQLite" custom="false" name="SQLite Wrapper by Christian Werner" class="SQLite.JDBCDriver" url="jdbc:sqlite:/{file}" port="" description="SQLite3 JDBC driver by Christian Werner (Windows only)"/>
+	</provider>
+</drivers>
